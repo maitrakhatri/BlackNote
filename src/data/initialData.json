@@ -1,0 +1,326 @@
+[
+    {
+        "id": "1f7e1fff-387c-4ac1-8153-1bb95c1ac7c5",
+        "type": "heading",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left",
+            "level": "1"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Pros",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "810cb31b-6069-46a0-99ae-6bbbec7ab0cb",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "UI similar to ",
+                "styles": {}
+            },
+            {
+                "type": "text",
+                "text": "Notion.",
+                "styles": {
+                    "bold": true,
+                    "textColor": "red"
+                }
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "5efa1f63-c168-4ff5-9fca-f8e43615ee9d",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "All basic toolbar available.",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "3f892375-1830-4f4b-b5db-552c0e4d7458",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Has ",
+                "styles": {}
+            },
+            {
+                "type": "text",
+                "text": "Y.js",
+                "styles": {
+                    "bold": true,
+                    "textColor": "blue"
+                }
+            },
+            {
+                "type": "text",
+                "text": " ",
+                "styles": {
+                    "bold": true
+                }
+            },
+            {
+                "type": "text",
+                "text": "support for ",
+                "styles": {}
+            },
+            {
+                "type": "text",
+                "text": "live collaboration",
+                "styles": {
+                    "bold": true
+                }
+            },
+            {
+                "type": "text",
+                "text": ".",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "265a4e7b-5ec6-4530-9dcd-8608fc12e941",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Supports Markdown.",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "03b3f37d-7444-4434-a72e-b1fcf44481cc",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Can be converted to HTML (Styles not included)",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "b08b9876-1866-4acb-b39a-cdfe0f2c276f",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Supports monospace",
+                "styles": {}
+            }
+        ],
+        "children": [
+            {
+                "id": "bf9d57dd-5af2-47b3-95a8-180936a35493",
+                "type": "paragraph",
+                "props": {
+                    "textColor": "default",
+                    "backgroundColor": "default",
+                    "textAlignment": "left"
+                },
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "and Nesting:",
+                        "styles": {}
+                    }
+                ],
+                "children": [
+                    {
+                        "id": "d8e34bd6-7a2a-40fd-8b60-b3aed3b4d5f3",
+                        "type": "paragraph",
+                        "props": {
+                            "textColor": "default",
+                            "backgroundColor": "gray",
+                            "textAlignment": "left"
+                        },
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "function demoCode()",
+                                "styles": {
+                                    "code": true
+                                }
+                            }
+                        ],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e493aefc-1e2c-47c6-841c-f293bf8fce51",
+        "type": "paragraph",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [],
+        "children": []
+    },
+    {
+        "id": "2b2b330e-474a-4c5d-bb48-a43c16d92f47",
+        "type": "heading",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left",
+            "level": "1"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Cons",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "b56e0129-bd99-40ce-9b34-6574675b7ee8",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Does not support Image.",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "06ce70bb-9339-477a-b37d-4b9ed27cbbb7",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Does not support Embed.",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "7d9a84fe-ae44-4977-88bd-b046ae8ff933",
+        "type": "numberedListItem",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Does not support code formatting/syntax. ",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "e605d796-8f21-44e1-90b1-9c21bddfd97d",
+        "type": "paragraph",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left"
+        },
+        "content": [],
+        "children": []
+    },
+    {
+        "id": "2715115e-71f6-4101-8b91-2c017914f983",
+        "type": "heading",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "default",
+            "textAlignment": "left",
+            "level": "1"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "Fun things to test out",
+                "styles": {}
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "35a22263-a28f-42b8-a8aa-f959aed69618",
+        "type": "paragraph",
+        "props": {
+            "textColor": "default",
+            "backgroundColor": "red",
+            "textAlignment": "left"
+        },
+        "content": [
+            {
+                "type": "text",
+                "text": "This is the by default data. You can change this and it will persist on reload  ;)",
+                "styles": {}
+            }
+        ],
+        "children": []
+    }
+]
