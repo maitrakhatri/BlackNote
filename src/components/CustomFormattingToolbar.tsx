@@ -2,7 +2,6 @@ import { BlockNoteEditor } from "@blocknote/core";
 import {
   Toolbar,
   ToggledStyleButton,
-  ToolbarButton,
   TextAlignButton,
   NestBlockButton,
   ColorStyleButton,
